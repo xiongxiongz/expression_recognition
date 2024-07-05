@@ -1,0 +1,51 @@
+<dict>
+  <key>main-file</key>
+  <string>G:/用户/桌面/研究生学习/软硬件协同/traffic_light_recognition/HLS/conv/conv/solution1/.autopilot/db/conv_core.pp.0.cpp</string>
+  <key>diagnostics</key>
+  <array>
+    <dict>
+      <key>level</key>
+      <string>warning</string>
+      <key>filename</key>
+      <string>conv_core.cpp</string>
+      <key>line</key>
+      <integer>67</integer>
+      <key>column</key>
+      <integer>16</integer>
+      <key>message</key>
+      <string>&amp; has lower precedence than &lt;; &lt; will be evaluated first</string>
+      <key>ID</key>
+      <integer>5094</integer>
+      <key>WarningOption</key>
+      <string>parentheses</string>
+    </dict>
+    <dict>
+      <key>level</key>
+      <string>note</string>
+      <key>filename</key>
+      <string>conv_core.cpp</string>
+      <key>line</key>
+      <integer>67</integer>
+      <key>column</key>
+      <integer>16</integer>
+      <key>message</key>
+      <string>place parentheses around the &apos;&lt;&apos; expression to silence this warning</string>
+      <key>ID</key>
+      <integer>4428</integer>
+    </dict>
+    <dict>
+      <key>level</key>
+      <string>note</string>
+      <key>filename</key>
+      <string>conv_core.cpp</string>
+      <key>line</key>
+      <integer>67</integer>
+      <key>column</key>
+      <integer>16</integer>
+      <key>message</key>
+      <string>place parentheses around the &amp; expression to evaluate it first</string>
+      <key>ID</key>
+      <integer>4426</integer>
+    </dict>
+  </array>
+</dict>

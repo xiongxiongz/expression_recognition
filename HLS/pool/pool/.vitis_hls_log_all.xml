@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [RTGEN 206-101] Design contains AXI ports. Reset is fixed to synchronous and active low." projectName="pool" solutionName="solution1" date="2024-01-25T13:08:42.376+0800" type="Warning"/>
+        <logs message="WARNING: [HLS 200-880] The II Violation in module 'Pool_Pipeline_VITIS_LOOP_36_4_VITIS_LOOP_37_5' (loop 'VITIS_LOOP_36_4_VITIS_LOOP_37_5'): Unable to enforce a carried dependence constraint (II = 4, distance = 1, offset = 0) between 'store' operation ('sum_1_write_ln43', pool_core.cpp:43) of variable 'sum', pool_core.cpp:43 on local variable 'sum' and 'load' operation ('sum_1_load_1', pool_core.cpp:43) on local variable 'sum'.&#xD;&#xA;Resolution: For help on HLS 200-880 see www.xilinx.com/cgi-bin/docs/rdoc?v=2022.2;t=hls+guidance;d=200-880.html" projectName="pool" solutionName="solution1" date="2024-01-25T13:08:39.798+0800" type="Warning"/>
+        <logs message="WARNING: [HLS 200-880] The II Violation in module 'Pool_Pipeline_VITIS_LOOP_36_4_VITIS_LOOP_37_5' (loop 'VITIS_LOOP_36_4_VITIS_LOOP_37_5'): Unable to enforce a carried dependence constraint (II = 3, distance = 1, offset = 0) between 'store' operation ('sum_1_write_ln43', pool_core.cpp:43) of variable 'sum', pool_core.cpp:43 on local variable 'sum' and 'load' operation ('sum_1_load_1', pool_core.cpp:43) on local variable 'sum'.&#xD;&#xA;Resolution: For help on HLS 200-880 see www.xilinx.com/cgi-bin/docs/rdoc?v=2022.2;t=hls+guidance;d=200-880.html" projectName="pool" solutionName="solution1" date="2024-01-25T13:08:39.545+0800" type="Warning"/>
+        <logs message="WARNING: [HLS 200-880] The II Violation in module 'Pool_Pipeline_VITIS_LOOP_36_4_VITIS_LOOP_37_5' (loop 'VITIS_LOOP_36_4_VITIS_LOOP_37_5'): Unable to enforce a carried dependence constraint (II = 2, distance = 1, offset = 0) between 'store' operation ('sum_1_write_ln43', pool_core.cpp:43) of variable 'sum', pool_core.cpp:43 on local variable 'sum' and 'load' operation ('sum_1_load_1', pool_core.cpp:43) on local variable 'sum'.&#xD;&#xA;Resolution: For help on HLS 200-880 see www.xilinx.com/cgi-bin/docs/rdoc?v=2022.2;t=hls+guidance;d=200-880.html" projectName="pool" solutionName="solution1" date="2024-01-25T13:08:39.529+0800" type="Warning"/>
+        <logs message="WARNING: [HLS 200-880] The II Violation in module 'Pool_Pipeline_VITIS_LOOP_36_4_VITIS_LOOP_37_5' (loop 'VITIS_LOOP_36_4_VITIS_LOOP_37_5'): Unable to enforce a carried dependence constraint (II = 1, distance = 1, offset = 1) between 'and' operation ('and_ln45_1', pool_core.cpp:45) and 'fcmp' operation ('tmp_5', pool_core.cpp:45).&#xD;&#xA;Resolution: For help on HLS 200-880 see www.xilinx.com/cgi-bin/docs/rdoc?v=2022.2;t=hls+guidance;d=200-880.html" projectName="pool" solutionName="solution1" date="2024-01-25T13:08:39.514+0800" type="Warning"/>
+        <logs message="WARNING: [HLS 200-960] Cannot flatten loop 'VITIS_LOOP_26_3' (pool_core.cpp:26:29) in function 'Pool' the outer loop is not a perfect loop because there is nontrivial logic in the loop latch.&#xD;&#xA;Resolution: For help on HLS 200-960 see www.xilinx.com/cgi-bin/docs/rdoc?v=2022.2;t=hls+guidance;d=200-960.html" projectName="pool" solutionName="solution1" date="2024-01-25T13:08:38.693+0800" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog>
+        <logs message="WARNING: [IP_Flow 19-4832] The IP name 'Pool_uitofp_32ns_32_6_no_dsp_1_ip' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.&#xD;" projectName="pool" solutionName="solution1" date="2024-01-25T13:10:32.347+0800" type="Warning"/>
+        <logs message="WARNING: [IP_Flow 19-4832] The IP name 'Pool_fdiv_32ns_32ns_32_16_no_dsp_1_ip' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.&#xD;" projectName="pool" solutionName="solution1" date="2024-01-25T13:10:30.337+0800" type="Warning"/>
+        <logs message="WARNING: [IP_Flow 19-4832] The IP name 'Pool_fcmp_32ns_32ns_1_2_no_dsp_1_ip' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.&#xD;" projectName="pool" solutionName="solution1" date="2024-01-25T13:10:26.317+0800" type="Warning"/>
+        <logs message="WARNING: [IP_Flow 19-4832] The IP name 'Pool_fadd_32ns_32ns_32_5_full_dsp_1_ip' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.&#xD;&#xD;&#xA;create_ip: Time (s): cpu = 00:00:02 ; elapsed = 00:00:08 . Memory (MB): peak = 1047.344 ; gain = 43.168&#xD;" projectName="pool" solutionName="solution1" date="2024-01-25T13:10:22.326+0800" type="Warning"/>
+      </packageLog>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

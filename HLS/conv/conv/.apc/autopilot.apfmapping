@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="conv_core.h" path="G:\traffic_light_recognition\HLS\conv\conv_core.h"/>
+    <originFiles name="conv_core.cpp" path="G:\traffic_light_recognition\HLS\conv\conv_core.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="main.cpp" path="G:\traffic_light_recognition\HLS\conv\main.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

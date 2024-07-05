@@ -1,0 +1,50 @@
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:1324:7: warning: Added loop label VITIS_LOOP_1211_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1211_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:1324:7: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:2298:5: warning: Added loop label VITIS_LOOP_676_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_676_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:2298:5: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:2312:5: warning: Added loop label VITIS_LOOP_690_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_690_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:2312:5: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:2326:5: warning: Added loop label VITIS_LOOP_704_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_704_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:2326:5: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:3937:7: warning: Added loop label VITIS_LOOP_1245_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1245_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:3937:7: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31296:2: warning: Added loop label VITIS_LOOP_24_1:   [xilinx-label-all-loops]
+ for(int c=0;c<CHin;c++)
+ ^~~
+ VITIS_LOOP_24_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31296:2: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31297:3: warning: Added loop label VITIS_LOOP_25_2:   [xilinx-label-all-loops]
+  for(int i=0;i<Hout;i++)
+  ^~~
+  VITIS_LOOP_25_2: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31297:3: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31298:4: warning: Added loop label VITIS_LOOP_26_3:   [xilinx-label-all-loops]
+   for(int j=0;j<Wout;j++)
+   ^~~
+   VITIS_LOOP_26_3: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31298:4: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31308:5: warning: Added loop label VITIS_LOOP_36_4:   [xilinx-label-all-loops]
+    for(int ii=0;ii<Ky;ii++)
+    ^~~
+    VITIS_LOOP_36_4: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31308:5: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31309:6: warning: Added loop label VITIS_LOOP_37_5:   [xilinx-label-all-loops]
+     for(int jj=0;jj<Kx;jj++)
+     ^~~
+     VITIS_LOOP_37_5: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp:31309:6: note: FIX-IT applied suggested code changes

@@ -1,0 +1,59 @@
+INFO: [HLS 200-10] Running 'D:/tool/vitis/Vitis_HLS/2022.2/bin/unwrapped/win64.o/vitis_hls.exe'
+INFO: [HLS 200-10] For user '903855116' on host 'desktop-8hhif9v' (Windows NT_amd64 version 6.2) on Thu Jan 25 13:09:11 +0800 2024
+INFO: [HLS 200-10] In directory 'G:/用户/桌面/研究生学习/软硬件协同/traffic_light_recognition/HLS/pool'
+Sourcing Tcl script 'G:/用户/桌面/研究生学习/软硬件协同/traffic_light_recognition/HLS/pool/pool/solution1/export.tcl'
+INFO: [HLS 200-1510] Running: source G:/用户/桌面/研究生学习/软硬件协同/traffic_light_recognition/HLS/pool/pool/solution1/export.tcl
+INFO: [HLS 200-1510] Running: open_project pool 
+INFO: [HLS 200-10] Opening project 'G:/用户/桌面/研究生学习/软硬件协同/traffic_light_recognition/HLS/pool/pool'.
+INFO: [HLS 200-1510] Running: set_top Pool 
+INFO: [HLS 200-1510] Running: add_files pool_core.cpp 
+INFO: [HLS 200-10] Adding design file 'pool_core.cpp' to the project
+INFO: [HLS 200-1510] Running: add_files pool_core.h 
+INFO: [HLS 200-10] Adding design file 'pool_core.h' to the project
+INFO: [HLS 200-1510] Running: add_files -tb main.cpp 
+INFO: [HLS 200-10] Adding test bench file 'main.cpp' to the project
+INFO: [HLS 200-1510] Running: open_solution solution1 -flow_target vivado 
+INFO: [HLS 200-10] Opening solution 'G:/用户/桌面/研究生学习/软硬件协同/traffic_light_recognition/HLS/pool/pool/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7z020-clg484-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+Resolution: For help on HLS 200-1505 see www.xilinx.com/cgi-bin/docs/rdoc?v=2022.2;t=hls+guidance;d=200-1505.html
+INFO: [HLS 200-1510] Running: set_part xc7z020clg484-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog 
+Running Dispatch Server on port: 59224
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+
+****** Vivado v2022.2 (64-bit)
+  **** SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+  **** IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source run_ippack.tcl -notrace
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'G:/用户/桌面/研究生学习/软硬件协同/traffic_light_recognition/HLS/pool/pool/solution1/impl/ip'
+create_project: Time (s): cpu = 00:00:04 ; elapsed = 00:00:10 . Memory (MB): peak = 1004.176 ; gain = 120.125
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/tool/vitis/Vivado/2022.2/data/ip'.
+WARNING: [IP_Flow 19-4832] The IP name 'Pool_fadd_32ns_32ns_32_5_full_dsp_1_ip' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.
+create_ip: Time (s): cpu = 00:00:02 ; elapsed = 00:00:08 . Memory (MB): peak = 1047.344 ; gain = 43.168
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Pool_fadd_32ns_32ns_32_5_full_dsp_1_ip'...
+INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'Pool_fadd_32ns_32ns_32_5_full_dsp_1_ip'...
+WARNING: [IP_Flow 19-4832] The IP name 'Pool_fcmp_32ns_32ns_1_2_no_dsp_1_ip' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Pool_fcmp_32ns_32ns_1_2_no_dsp_1_ip'...
+INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'Pool_fcmp_32ns_32ns_1_2_no_dsp_1_ip'...
+WARNING: [IP_Flow 19-4832] The IP name 'Pool_fdiv_32ns_32ns_32_16_no_dsp_1_ip' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Pool_fdiv_32ns_32ns_32_16_no_dsp_1_ip'...
+INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'Pool_fdiv_32ns_32ns_32_16_no_dsp_1_ip'...
+WARNING: [IP_Flow 19-4832] The IP name 'Pool_uitofp_32ns_32_6_no_dsp_1_ip' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Pool_uitofp_32ns_32_6_no_dsp_1_ip'...
+INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'Pool_uitofp_32ns_32_6_no_dsp_1_ip'...
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/tool/vitis/Vivado/2022.2/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Thu Jan 25 13:10:36 2024...
+INFO: [HLS 200-802] Generated output file pool/solution1/impl/export.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 80.752 seconds; current allocated memory: 9.230 MB.
+INFO: [HLS 200-112] Total CPU user time: 5 seconds. Total CPU system time: 1 seconds. Total elapsed time: 94.989 seconds; peak allocated memory: 686.234 MB.

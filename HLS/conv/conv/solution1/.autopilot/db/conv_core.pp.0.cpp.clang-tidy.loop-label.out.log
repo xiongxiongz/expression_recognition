@@ -1,0 +1,55 @@
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:1324:7: warning: Added loop label VITIS_LOOP_1211_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1211_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:1324:7: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:2298:5: warning: Added loop label VITIS_LOOP_676_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_676_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:2298:5: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:2312:5: warning: Added loop label VITIS_LOOP_690_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_690_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:2312:5: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:2326:5: warning: Added loop label VITIS_LOOP_704_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_704_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:2326:5: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:3937:7: warning: Added loop label VITIS_LOOP_1245_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1245_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:3937:7: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31323:2: warning: Added loop label VITIS_LOOP_41_1:   [xilinx-label-all-loops]
+ for(int cout=0;cout<CHout;cout++)
+ ^~~
+ VITIS_LOOP_41_1: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31323:2: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31324:3: warning: Added loop label VITIS_LOOP_42_2:   [xilinx-label-all-loops]
+  for(int i=0;i<Hout;i++)
+  ^~~
+  VITIS_LOOP_42_2: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31324:3: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31325:4: warning: Added loop label VITIS_LOOP_43_3:   [xilinx-label-all-loops]
+   for(int j=0;j<Wout;j++)
+   ^~~
+   VITIS_LOOP_43_3: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31325:4: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31328:5: warning: Added loop label VITIS_LOOP_46_4:   [xilinx-label-all-loops]
+    for(int ii=0;ii<Ky;ii++)
+    ^~~
+    VITIS_LOOP_46_4: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31328:5: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31329:6: warning: Added loop label VITIS_LOOP_47_5:   [xilinx-label-all-loops]
+     for(int jj=0;jj<Kx;jj++)
+     ^~~
+     VITIS_LOOP_47_5: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31329:6: note: FIX-IT applied suggested code changes
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31335:8: warning: Added loop label VITIS_LOOP_53_6:   [xilinx-label-all-loops]
+       for(int cin=0;cin<CHin;cin++)
+       ^~~
+       VITIS_LOOP_53_6: 
+G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp:31335:8: note: FIX-IT applied suggested code changes

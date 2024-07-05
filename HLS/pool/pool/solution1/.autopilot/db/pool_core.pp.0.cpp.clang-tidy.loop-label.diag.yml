@@ -1,0 +1,94 @@
+---
+MainSourceFile:  "G:/用户/桌面/研究生学习/软硬件协同/traffic_light_recognition/HLS/pool/pool/solution1/.autopilot/db/pool_core.pp.0.cpp"
+Diagnostics:     
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1211_1:  '
+    FileOffset:      1211
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_int_base.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          51845
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1211_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_676_1:  '
+    FileOffset:      676
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          258973
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_676_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_690_1:  '
+    FileOffset:      690
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          259412
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_690_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_704_1:  '
+    FileOffset:      704
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          259852
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_704_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1245_1:  '
+    FileOffset:      1245
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_fixed_base.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          521717
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1245_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_24_1:  '
+    FileOffset:      24
+    FilePath:        pool_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          1613658
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_24_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_25_2:  '
+    FileOffset:      25
+    FilePath:        pool_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          1613684
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_25_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_26_3:  '
+    FileOffset:      26
+    FilePath:        pool_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          1613711
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_26_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_36_4:  '
+    FileOffset:      36
+    FilePath:        pool_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          1613884
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_36_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_37_5:  '
+    FileOffset:      37
+    FilePath:        pool_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool\solution1\.autopilot\db\pool_core.pp.0.cpp"
+        Offset:          1613914
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_37_5: '
+...

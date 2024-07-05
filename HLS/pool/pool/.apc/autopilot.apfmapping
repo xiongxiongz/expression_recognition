@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="pool_core.cpp" path="G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool_core.cpp"/>
+    <originFiles name="pool_core.h" path="G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\pool_core.h"/>
+  </source>
+  <testbench>
+    <originFiles name="main.cpp" path="G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\pool\main.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

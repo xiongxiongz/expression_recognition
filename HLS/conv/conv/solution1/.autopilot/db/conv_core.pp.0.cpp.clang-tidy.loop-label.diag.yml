@@ -1,0 +1,103 @@
+---
+MainSourceFile:  "G:/用户/桌面/研究生学习/软硬件协同/traffic_light_recognition/HLS/conv/conv/solution1/.autopilot/db/conv_core.pp.0.cpp"
+Diagnostics:     
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1211_1:  '
+    FileOffset:      1211
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_int_base.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          51845
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1211_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_676_1:  '
+    FileOffset:      676
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          258973
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_676_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_690_1:  '
+    FileOffset:      690
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          259412
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_690_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_704_1:  '
+    FileOffset:      704
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          259852
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_704_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1245_1:  '
+    FileOffset:      1245
+    FilePath:        'D:\tool\vitis\Vitis_HLS\2022.2\common\technology\autopilot\ap_fixed_base.h'
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          521717
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1245_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_41_1:  '
+    FileOffset:      41
+    FilePath:        conv_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          1614383
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_41_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_42_2:  '
+    FileOffset:      42
+    FilePath:        conv_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          1614419
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_42_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_43_3:  '
+    FileOffset:      43
+    FilePath:        conv_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          1614446
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_43_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_46_4:  '
+    FileOffset:      46
+    FilePath:        conv_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          1614500
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_46_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_47_5:  '
+    FileOffset:      47
+    FilePath:        conv_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          1614530
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_47_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_53_6:  '
+    FileOffset:      53
+    FilePath:        conv_core.cpp
+    Replacements:    
+      - FilePath:        "G:\用户\桌面\研究生学习\软硬件协同\traffic_light_recognition\HLS\conv\conv\solution1\.autopilot\db\conv_core.pp.0.cpp"
+        Offset:          1614686
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_53_6: '
+...
